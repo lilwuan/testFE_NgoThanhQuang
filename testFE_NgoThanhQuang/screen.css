@@ -1,0 +1,1944 @@
+.template-2{
+    background-color: white;    
+    width: 1440px;
+    height: 4675px;
+    top: -2317px;
+    left: -518px;
+}
+
+.template-2 .rectangle-51{
+    background-color: #F9F1E7;
+    width: 964px;
+    height: 774px;
+    display: flex;
+}
+
+.template-2 .rectangle-50{
+    background-color: #FCF8F3;
+    width: 1440px;
+    height: 789px;
+    display: flex;
+}
+
+.template-2 .top-nav{
+    width: 1240px;
+    height: 45px;
+    display: flex;
+    top: 29px;
+    left: 98px;
+    align-items: center;
+    position: absolute;
+}
+
+.template-2 .searchbar{
+    display: flex;
+    width: 473px;
+    height: 45px;
+    align-items: center;
+    left: 502px;
+    position: absolute;
+    background: #ffffff;
+    box-sizing: border-box;
+}
+
+.template-2 .icon-search{
+    width: 20px;   
+    height: 20px;
+    padding: 10px;
+}
+
+.template-2 .placeholder{
+    font-size: 14px;
+    color: #616161;
+    font-weight: 400;
+}
+
+.template-2 .menus{
+    display: flex;
+    gap: 40px;
+}
+
+.template-2 .menu-1{
+    display: flex;
+    gap: 8px;
+}
+
+.template-2 .products{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.template-2 .icon-down-1{
+    width: 20px;
+    height: 20px;
+    padding: 4px;
+}
+
+.template-2 .menu-2{
+    display: flex;
+    gap: 8px;
+}
+
+.template-2 .rooms{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.template-2 .icon-down-2{
+    width: 20px;
+    height: 20px;
+    padding: 4px;
+}
+
+.template-2 .inspirations{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.template-2 .funiro{
+    font-size: 24px;
+    line-height: 29.02px;
+    font-weight: 700;
+    margin-right: 40px;
+}
+
+.template-2 .icons{
+    position: absolute;
+    display: flex;
+    left: 1086px;
+    align-items: center;
+    gap: 32px;
+}
+
+.template-2 .icon-heart{
+    width: 24px;
+    height: 24px;
+}
+
+.template-2 .icon-cart{
+    width: 24px;
+    height: 24px;
+}
+
+.template-2 .ellipse-2{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: url(/assets/images/avt.png) 50%;
+}
+
+.template-2 .indicator{
+    position: absolute;
+    left: 662px;
+    gap: 20px;
+    top: 694.85px;
+    display: flex;
+}
+
+.template-2 .indicator-ellipse-1{
+    position: relative;
+    width: 11px;
+    height: 11px;
+    border: 1px;
+    top: 8px;
+    left: 8px;
+    background: #e89f71;
+    border-radius: 5.5px;
+}
+
+.template-2 .indicator-ellipse-2{
+    position: relative;
+    width: 11px;
+    height: 11px;
+    border: 1px;
+    top: 8px;
+    left: 8px;
+    background: #D8D8D8;
+    border-radius: 5.5px;
+}
+
+.template-2 .indicator-ellipse-3{
+    position: relative;
+    width: 11px;
+    height: 11px;
+    border: 1px;
+    top: 8px;
+    left: 8px;
+    background: #D8D8D8;
+    border-radius: 5.5px;
+}
+
+.template-2 .indicator-ellipse-4{
+    position: relative;
+    width: 11px;
+    height: 11px;
+    border: 1px;
+    top: 8px;
+    left: 8px;
+    background: #D8D8D8;
+    border-radius: 5.5px;
+}
+
+.template-2 .image-1528-1{
+    width: 1339px;
+    height: 624px;
+    position: absolute;
+    top: 99px;
+    left: 50px;
+}
+
+.template-2 .group-22{
+    width: 1302px;
+    height: 45.16px;
+    top: 371px;
+    position: absolute;
+    left: 64px;
+    right: 23px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.template-2 .info-box{
+    backdrop-filter: blur(2.5px);
+    background: rgba(255, 255, 255, 0.72);
+    position: absolute;
+    width: 294px;
+    height: 138.88px;
+    top: 530.64px;
+    left: 970px;
+    padding-left: 30px;
+    align-items: center;
+    align-content: center;
+}
+
+.template-2 .product-name-bohauss{
+    width: 109;
+    height: 31.9px;
+    font-size: 28px;
+    line-height: 33.6px;
+    font-weight: 600;
+}
+
+.template-2 .sort-description{
+    width: 109;
+    height: 30px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.template-2 .price{
+    width: 200px;
+    display: flex;
+    height: 30px;
+    top: -10px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    align-items: center;
+}
+
+.template-2 .arrow-right{
+    width: 24px;
+    height: 22.52px;
+}
+
+.template-2 .icon-arrow-right{
+    width: 24px;
+    height: 22.52px;
+    position: absolute;
+    right: 30px;
+}
+
+.template-2 .hero-content{
+    backdrop-filter: blur(2.5px);
+    background: rgba(255, 255, 255, 0.72);
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    width: 494px;
+    height: 553px;
+    top: 135px;
+    left: 149px;
+}
+
+.template-2 .content-box{
+    width: 374px;
+    height: 433px;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+}
+
+.template-2 .content-1{
+    font-size: 56px;
+    color: #3A3A3A;
+    line-height: 67.2px;
+    font-weight: 700;
+}
+
+.template-2 .content-2{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+    position: absolute;
+    top: 210px;
+}
+
+.template-2 .cta-primary{
+    width: 374px;
+    height: 78px;
+    position: absolute;
+    top: 350px;
+    display: flex;
+    align-items: center;
+    padding-left: 40% ;
+    box-sizing: border-box;
+    background: #e89f71;
+}
+
+.template-2 .shop-now{
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.template-2 .feature{
+    width: 1237px;
+    height: 85px;
+    background-color: #ffffff;
+    justify-content: center;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 103px;
+    gap: 92px;
+    align-items: center;
+}
+
+.template-2 .group-5{
+    width: 280px;
+    height: 85px;
+    display: flex;
+    align-items: center;
+    left: 0;
+    position: absolute;
+}
+
+.template-2 .group-3{
+    width: 280px;
+    height: 85px;
+    display: flex;
+    align-items: center;
+    left: 372px;
+    position: absolute;
+}
+
+.template-2 .group-2{
+    width: 280px;
+    height: 85px;
+    display: flex;
+    align-items: center;
+    left: 711px;
+    position: absolute;
+}
+
+.template-2 .group-4{
+    width: 280px;
+    height: 85px;
+    display: flex;
+    align-items: center;
+    left: 1011px;
+    position: absolute;
+}
+
+.template-2 .icon-cup{
+    width: 40px;
+    height: 40px;
+    padding-left: 22px;
+    padding-top: 22px;
+    padding-bottom: 23px;
+    padding-right: 18px;
+    color: #3A3A3A;
+}
+
+.template-2 .feature-name-1{
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 600;
+    color: #3A3A3A;
+}
+
+.template-2 .feature-content-1{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #898989;
+}
+
+.template-2 .our-products{
+    width: 1236px;
+    height: 1084px;
+    border: 1px;
+    position: absolute;
+    top: 1035px;
+    left: 100px;
+    text-align: center;
+}
+
+.template-2 .title-text{
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+}
+
+.template-2 .frame-7{
+    width: 1236px;
+    height: 446px;
+    position: absolute;
+    top: 100px;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.template-2 .featured-products-71{
+    width: 285px;
+    height: 446px;
+    background-color:#F9F1E7;
+}
+
+.template-2 .product-image-1{
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .image-1-pro{
+    object-fit:fill;
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .bg-1{
+    width: 285px;
+    height: 145px;
+    top: 301px;
+    position: absolute;
+    align-content: center;
+    background-color: #f4f5f7;
+}
+
+.template-2 .description-1{
+    width: 238px;
+    height: 99px;
+    top: 317px;
+    left: 16px;
+    padding-left: 16px;
+    padding-right:31px;
+    padding-top: 16px;
+    padding-bottom: 30px;
+}
+
+.template-2 .discription-product-name-1{
+    width: 125px;
+    height: 61px;
+    position: absolute;
+    left: 16px;
+}
+
+.template-2 .product-name-syltherine{
+    width: 110px;
+    height: 29px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28.8px
+}
+
+.template-2 .syltherine-sort1{
+    width: 125px;
+    padding-top: 8px;
+    height: 24px;
+    position: absolute;
+    font-size: 16px;
+    left: 2px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #898989;
+}
+
+.template-2 .des1-price{
+    width: 238px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    display: flex;
+    gap: 10px;
+    left: 25px;
+}
+
+.template-2 .des1-fix-price-1{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.template-2 .des1-fix-price-2{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #b0b0b0;
+    position: absolute;
+    left: 127px;
+    top: 2px;
+    text-decoration-line: line-through;
+}
+
+.template-2 .label-1{
+    width: 48px;
+    height: 48px;
+    align-content: center;
+    position: absolute;
+    color: #ffffff;
+    border-radius: 30px;
+    top: 24px;
+    left: 213px;
+    background-color: #e97171;
+}
+
+.template-2 .bg-2{
+    width: 285px;
+    height: 145px;
+    top: 301px;
+    position: absolute;
+    align-content: center;
+    background-color: #f4f5f7;
+}
+
+.template-2 .image-2-pro{
+    object-fit:fill;
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .description-2{
+    width: 238px;
+    height: 99px;
+    top: 317px;
+    left: 16px;
+    padding-left: 16px;
+    padding-right:31px;
+    padding-top: 16px;
+    padding-bottom: 30px;
+}
+
+.template-2 .featured-products-72{
+    width: 285px;
+    height: 446px;
+    margin-left: 32px;
+}
+
+.template-2 .product-image-2{
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .pop-up{
+    width: 285px;
+    height: 446px;
+    position: absolute;
+    background: #3A3A3A;
+    opacity: 0.72;
+    bottom: 0;
+}
+
+.template-2 .button-cta2{
+    width: 202px;
+    height: 48px;
+    position: absolute;
+    top: 160px;
+    left: 42px;
+    align-content: center;
+}
+
+.template-2 .cta{
+    width: 202px;
+    height: 48px;
+    align-content: center;
+    background-color: #ffffff;
+}
+
+.template-2 .frame-5{
+    width: 184px;
+    height: 24px;
+    margin-top: 24px;
+    display: flex;
+}
+
+.template-2 .group-11{
+    width: 75px;
+    height: 24px;
+    display: flex;
+    gap: 5px;
+    margin-left: 13px;
+}
+
+.template-2 .group-10{
+    width: 75px;
+    height: 24px;
+    display: flex;
+    gap: 5px;
+    margin-left: 48px;
+}
+
+.template-2 .icon-share{
+    width: 24px;
+    height: 24px;
+}
+
+.template-2 .text-share{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.template-2 .icon-like{
+    width: 24px;
+    height: 24px;
+}
+
+.template-2 .text-like{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.template-2 .product-name-leviosa{
+    width: 83px;
+    height: 29px;
+    font-size: 24px;
+    font-weight: 600;
+    left: 16px;
+    position: absolute;
+    line-height: 28.8px
+}
+
+.template-2 .syltherine-sort2{
+    width: 125px;
+    padding-top: 8px;
+    height: 24px;
+    position: absolute;
+    font-size: 16px;
+    left: 13px;
+    top: 42px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #898989;
+}
+
+.template-2 .des2-price{
+    width: 238px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    display: flex;
+    gap: 10px;
+    left: 20px;
+}
+
+.template-2 .des2-fix-price-1{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.template-2 .featured-products-73{
+    width: 285px;
+    height: 446px;
+    background-color:#F9F1E7;
+    margin-left: 32px;
+}
+
+.template-2 .product-image-3{
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .image-3-pro{
+    object-fit:fill;
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .bg-3{
+    width: 285px;
+    height: 145px;
+    top: 301px;
+    position: absolute;
+    align-content: center;
+    background-color: #f4f5f7;
+}
+
+.template-2 .description-3{
+    width: 238px;
+    height: 99px;
+    top: 317px;
+    left: 16px;
+    padding-left: 16px;
+    padding-right:31px;
+    padding-top: 16px;
+    padding-bottom: 30px;
+}
+
+.template-2 .discription-product-name-3{
+    width: 125px;
+    height: 61px;
+    position: absolute;
+    left: 16px;
+}
+
+.template-2 .product-name-lolito{
+    width: 60px;
+    height: 29px;
+    font-size: 24px;
+    position: absolute;
+    left: 10px;
+    font-weight: 600;
+    line-height: 28.8px
+}
+
+.template-2 .syltherine-sort3{
+    width: 125px;
+    padding-top: 8px;
+    height: 24px;
+    position: absolute;
+    font-size: 16px;
+    left: 0px;
+    top: 25px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #898989;
+}
+
+.template-2 .des3-price{
+    width: 238px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    display: flex;
+    gap: 10px;
+    left: 25px;
+}
+
+.template-2 .des3-fix-price-1{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.template-2 .des3-fix-price-2{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #b0b0b0;
+    position: absolute;
+    left: 127px;
+    top: 2px;
+    text-decoration-line: line-through;
+}
+
+.template-2 .label-3{
+    width: 48px;
+    height: 48px;
+    align-content: center;
+    position: absolute;
+    color: #ffffff;
+    border-radius: 30px;
+    top: 24px;
+    left: 847px;
+    background-color: #e97171;
+}
+
+.template-2 .featured-products-74{
+    width: 285px;
+    height: 446px;
+    background-color:#F9F1E7;
+    margin-left: 32px;
+}
+
+.template-2 .product-image-4{
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .image-4-pro{
+    object-fit:fill;
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .bg-4{
+    width: 285px;
+    height: 145px;
+    top: 301px;
+    position: absolute;
+    align-content: center;
+    background-color: #f4f5f7;
+}
+
+.template-2 .description-4{
+    width: 238px;
+    height: 99px;
+    top: 317px;
+    left: 16px;
+    padding-left: 16px;
+    padding-right:31px;
+    padding-top: 16px;
+    padding-bottom: 30px;
+}
+
+.template-2 .discription-product-name-4{
+    width: 125px;
+    height: 61px;
+    position: absolute;
+    left: 16px;
+}
+
+.template-2 .product-name-respira{
+    width: 60px;
+    height: 29px;
+    font-size: 24px;
+    position: absolute;
+    left: 10px;
+    font-weight: 600;
+    line-height: 28.8px
+}
+
+.template-2 .syltherine-sort4{
+    width: 125px;
+    padding-top: 8px;
+    height: 24px;
+    position: absolute;
+    font-size: 16px;
+    left: -5px;
+    top: 25px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #898989;
+}
+
+.template-2 .des4-price{
+    width: 238px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    display: flex;
+    gap: 10px;
+    left: 25px;
+}
+
+.template-2 .des4-fix-price-1{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.template-2 .label-4{
+    width: 48px;
+    height: 48px;
+    align-content: center;
+    position: absolute;
+    color: #ffffff;
+    border-radius: 30px;
+    top: 24px;
+    right: 24px;
+    background-color: #2EC1AC;
+}
+
+.template-2 .frame-8{
+    width: 1236px;
+    height: 446px;
+    position: absolute;
+    display: flex;
+    top: 580px;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.template-2 .featured-products-81{
+    width: 285px;
+    height: 446px;
+    background-color:#F9F1E7;
+}
+
+.template-2 .product-image-81{
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .image-81-pro{
+    object-fit:fill;
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .bg-81{
+    width: 285px;
+    height: 145px;
+    top: 301px;
+    position: absolute;
+    align-content: center;
+    background-color: #f4f5f7;
+}
+
+.template-2 .description-81{
+    width: 238px;
+    height: 99px;
+    top: 317px;
+    left: 16px;
+    padding-left: 16px;
+    padding-right:31px;
+    padding-top: 16px;
+    padding-bottom: 30px;
+}
+
+.template-2 .discription-product-name-81{
+    width: 125px;
+    height: 61px;
+    position: absolute;
+    left: 16px;
+}
+
+.template-2 .product-name-grifo{
+    width: 60px;
+    height: 29px;
+    font-size: 24px;
+    position: absolute;
+    left: 8px;
+    font-weight: 600;
+    line-height: 28.8px
+}
+
+.template-2 .syltherine-sort81{
+    width: 125px;
+    padding-top: 8px;
+    height: 24px;
+    position: absolute;
+    font-size: 16px;
+    left: -5px;
+    top: 25px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #898989;
+}
+
+.template-2 .des81-price{
+    width: 238px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    display: flex;
+    gap: 10px;
+    left: 25px;
+}
+
+.template-2 .des81-fix-price-1{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.template-2 .featured-products-82{
+    width: 285px;
+    height: 446px;
+    margin-left: 32px;
+    background-color:#F9F1E7;
+}
+
+.template-2 .product-image-82{
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .image-82-pro{
+    object-fit:fill;
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .bg-82{
+    width: 285px;
+    height: 145px;
+    top: 301px;
+    position: absolute;
+    align-content: center;
+    background-color: #f4f5f7;
+}
+
+.template-2 .description-82{
+    width: 238px;
+    height: 99px;
+    top: 317px;
+    left: 16px;
+    padding-left: 16px;
+    padding-right:31px;
+    padding-top: 16px;
+    padding-bottom: 30px;
+}
+
+.template-2 .discription-product-name-82{
+    width: 125px;
+    height: 61px;
+    position: absolute;
+    left: 16px;
+}
+
+.template-2 .product-name-muggo{
+    width: 60px;
+    height: 29px;
+    font-size: 24px;
+    position: absolute;
+    left: 8px;
+    font-weight: 600;
+    line-height: 28.8px
+}
+
+.template-2 .syltherine-sort82{
+    width: 125px;
+    padding-top: 8px;
+    height: 24px;
+    position: absolute;
+    font-size: 16px;
+    top: 25px;
+    left: -20px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #898989;
+}
+
+.template-2 .des82-price{
+    width: 238px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    display: flex;
+    gap: 10px;
+    left: 25px;
+}
+
+.template-2 .des82-fix-price-1{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.template-2 .featured-products-83{
+    width: 285px;
+    height: 446px;
+    margin-left: 32px;
+    background-color:#F9F1E7;
+}
+
+.template-2 .product-image-83{
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .image-83-pro{
+    object-fit:fill;
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .bg-83{
+    width: 285px;
+    height: 145px;
+    top: 301px;
+    position: absolute;
+    align-content: center;
+    background-color: #f4f5f7;
+}
+
+.template-2 .description-83{
+    width: 238px;
+    height: 99px;
+    top: 317px;
+    left: 16px;
+    padding-left: 16px;
+    padding-right:31px;
+    padding-top: 16px;
+    padding-bottom: 30px;
+}
+
+.template-2 .discription-product-name-83{
+    width: 125px;
+    height: 61px;
+    position: absolute;
+    left: 16px;
+}
+
+.template-2 .product-name-pingky{
+    width: 60px;
+    height: 29px;
+    font-size: 24px;
+    position: absolute;
+    left: 8px;
+    font-weight: 600;
+    line-height: 28.8px
+}
+
+.template-2 .syltherine-sort83{
+    width: 125px;
+    padding-top: 8px;
+    height: 24px;
+    position: absolute;
+    font-size: 16px;
+    top: 25px;
+    left: -15px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #898989;
+}
+
+.template-2 .des83-price{
+    width: 238px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    display: flex;
+    gap: 10px;
+    left: 25px;
+}
+
+.template-2 .des83-fix-price-1{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.template-2 .des83-fix-price-2{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #b0b0b0;
+    position: absolute;
+    left: 127px;
+    top: 2px;
+    text-decoration-line: line-through;
+}
+
+.template-2 .label-82{
+    width: 48px;
+    height: 48px;
+    align-content: center;
+    position: absolute;
+    color: #ffffff;
+    border-radius: 30px;
+    left: 525px;
+    top: 24px;
+    background-color: #2EC1AC;
+}
+
+.template-2 .label-83{
+    width: 48px;
+    height: 48px;
+    align-content: center;
+    position: absolute;
+    color: #ffffff;
+    border-radius: 30px;
+    top: 24px;
+    left: 847px;
+    background-color: #e97171;
+}
+
+.template-2 .featured-products-84{
+    width: 285px;
+    height: 446px;
+    margin-left: 32px;
+    background-color:#F9F1E7;
+}
+
+.template-2 .product-image-84{
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .image-84-pro{
+    object-fit:fill;
+    width: 285px;
+    height: 301px;
+}
+
+.template-2 .bg-84{
+    width: 285px;
+    height: 145px;
+    top: 301px;
+    position: absolute;
+    align-content: center;
+    background-color: #f4f5f7;
+}
+
+.template-2 .description-84{
+    width: 238px;
+    height: 99px;
+    top: 317px;
+    left: 16px;
+    padding-left: 16px;
+    padding-right:31px;
+    padding-top: 16px;
+    padding-bottom: 30px;
+}
+
+.template-2 .discription-product-name-84{
+    width: 125px;
+    height: 61px;
+    position: absolute;
+    left: 16px;
+}
+
+.template-2 .product-name-potty{
+    width: 60px;
+    height: 29px;
+    font-size: 24px;
+    position: absolute;
+    left: 3px;
+    font-weight: 600;
+    line-height: 28.8px
+}
+
+.template-2 .syltherine-sort84{
+    width: 200px;
+    padding-top: 8px;
+    height: 24px;
+    position: absolute;
+    font-size: 16px;
+    top: 25px;
+    left: -25px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #898989;
+}
+
+.template-2 .des84-price{
+    width: 238px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    display: flex;
+    gap: 10px;
+    left: 22px;
+}
+
+.template-2 .des84-fix-price-1{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.template-2 .des84-fix-price-2{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #b0b0b0;
+    position: absolute;
+    left: 127px;
+    top: 2px;
+    text-decoration-line: line-through;
+}
+
+.template-2 .label-84{
+    width: 48px;
+    height: 48px;
+    align-content: center;
+    position: absolute;
+    color: #ffffff;
+    border-radius: 30px;
+    top: 24px;
+    right: 24px;
+    background-color: #2EC1AC;
+}
+
+.template-2 .show-more{
+    width: 245px;
+    height: 48px;
+    margin-top: 1030px;
+    margin-left: 500px;
+    align-content: center;
+    border: 1px solid #E89F71
+}
+
+.template-2 .text-showmore{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #e89f71;
+}
+
+.template-2 .inspirations-1{
+    margin-top: 1420px;
+    width: 1440px;
+    height: 670px;
+    display: flex;
+    background-color: #fcf8f3;
+}
+
+.template-2 .product-inspi{
+    width: 480px;
+    height: 582px;
+    object-fit: fill;
+}
+
+.template-2 .content-inspi{
+    width: 257.82px;
+    height: 130px;
+    position: absolute;
+    top: 2660px;
+    left: 814.51px;
+    background: #FFFFFFB8;
+    align-content: center;
+}
+
+.template-2 .frame-3{
+    width: Hug (135px)px;
+    height: Hug (24px)px;
+    position: absolute;
+    top: -32px;
+    gap: 8px;
+    opacity: 0px;
+}
+
+.template-2 .s01{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+.template-2 .bed-room{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    
+}
+
+.template-2 .rectangle-29{
+    margin-left: 28.51px;
+    position: absolute;
+}
+
+.template-2 .inner-peace{
+    width: 181.78px;
+    height: 34px;
+    top: 2708px;
+    left: 852.53px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 28px;
+    line-height: 33.6px;
+    font-weight: 600;
+}
+
+.template-2 .vector-1{
+    width: 27px;
+}
+
+.template-2 .img-rectangle-241{
+    width: 480px;
+    height: 582px;
+    position: absolute;
+    margin-top: 53px;
+    margin-left: 780px;
+}
+
+.template-2 .cta-img-inspi{
+    background-color: #E89F71;
+    width: 57.03px;
+    height: 48px;
+    top: 2741px;
+    left: 1072.34px;
+    position: absolute;
+    align-content: center;
+}
+
+.template-2 .vector-2{
+    width: 28.51px;
+    height: 24px;
+    bottom: 10px;
+    left: 10px;
+    position: absolute;
+}
+
+.template-2 .title-inspi{
+    width: 446px;
+    height: 152px;
+    position: absolute;
+    top: 2386px;
+    left: 173px;
+}
+
+.template-2 .text-title-inspi{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.template-2 .text-subtitle-inspi{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.template-2 .cta-inspi{
+    width: 176px;
+    height: 48px;
+    position: absolute;
+    top: 2562px;
+    left: 173px;
+    background-color: #E89F71;
+    color: #FFFFFF;
+    align-content: center;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.template-2 .tips-tricks{
+    width: 1285px;
+    height: 520px;
+    position: absolute;
+    top: 2920px;
+    left: 76px;
+    text-align: center;
+}
+
+.template-2 .title-tips-tricks{
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.template-2 .indicator-tips-tricks{
+    width: 120px;
+    height: 27px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top: 490px;
+    left: 590px;
+    gap: 20px;
+}
+
+.template-2 .tiptrick-ellipse1{
+    position: relative;
+    width: 11px;
+    height: 11px;
+    border: 1px;
+    top: 8px;
+    left: 8px;
+    background: #D8D8D8;
+    border-radius: 5.5px;
+}
+
+.template-2 .tiptrick-ellipse2{
+    position: relative;
+    width: 11px;
+    height: 11px;
+    border: 1px;
+    top: 8px;
+    left: 8px;
+    background: #E89F71;
+    border-radius: 5.5px;
+}
+
+.template-2 .tiptrick-ellipse3{
+    position: relative;
+    width: 11px;
+    height: 11px;
+    border: 1px;
+    top: 8px;
+    left: 8px;
+    background: #D8D8D8;
+    border-radius: 5.5px;
+}
+
+.template-2 .tiptrick-ellipse4{
+    position: relative;
+    width: 11px;
+    height: 11px;
+    border: 1px;
+    top: 8px;
+    left: 8px;
+    background: #D8D8D8;
+    border-radius: 5.5px;
+}
+
+.template-2 .articles-tips-tricks{
+    width: 1285px;
+    height: 388px;
+    margin-top: 32px;
+    display: flex;
+}
+
+.template-2 .tips-1{
+    width: 391px;
+    height: 370px;
+    position: absolute;
+    text-align: left;
+}
+
+.template-2 .tips-1-rectangle-1{
+    width: 391px;
+    height: 251px;
+}
+
+.template-2 .tips-1-name1{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28.8px;
+    margin-left: 16px;
+}
+
+.template-2 .tips-1-name2{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    margin-left: 16px;
+}
+
+.template-2 .tips-2{
+    width: 391px;
+    height: 370px;
+    background-color: #ffffffc6;
+    position: absolute;
+    margin-left: 445px;
+    text-align: left;
+}
+
+.template-2 .tips-2-rectangle-1{
+    width: 391px;
+    height: 251px;
+}
+
+.template-2 .tips-2-name1{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28.8px;
+    margin-left: 16px;
+}
+
+.template-2 .tips-2-name2{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    margin-left: 16px;
+}
+
+.template-2 .tips-3{
+    width: 391px;
+    height: 370px;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+}
+
+.template-2 .tips-3-rectangle-1{
+    width: 391px;
+    height: 251px;
+}
+
+.template-2 .tips-3-name1{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28.8px;
+    margin-left: 16px;
+}
+
+.template-2 .tips-3-name2{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    margin-left: 16px;
+}
+
+.template-2 .share-your-setup-with{
+    width: 1440px;
+    height: 780px;
+    position: absolute;
+    top: 3490px;
+}
+
+.template-2 .title-share{
+    width: 1440px;
+    height: 86px;
+    text-align: center;
+}
+
+.template-2 .title-share1{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+}
+
+.template-2 .title-share2{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+}
+
+.template-2 .image-share{
+    width: 1440px;
+    height: 721px;
+}
+
+.template-2 .rectangle-36{
+    width: 160px;
+    height: 382px;
+    position: absolute;
+}
+
+.template-2 .rectangle-38{
+    width: 451px;
+    height: 312px;
+    margin-top: 70px;
+    margin-left: 170px;
+    position: absolute;
+}
+
+.template-2 .rectangle-40{
+    width: 295px;
+    height: 392px;
+    margin-top: 156px;
+    margin-left: 630px;
+    position: absolute;
+}
+
+.template-2 .rectangle-43{
+    width: 290px;
+    height: 348px;
+    margin-top: 99px;
+    margin-left: 935px;
+    position: absolute;
+}
+
+.template-2 .rectangle-45{
+    width: 205px;
+    height: 446px;
+    right: 0;
+    position: absolute;
+}
+
+.template-2 .rectangle-39{
+    width: 344px;
+    height: 242px;
+    top: 480px;
+    left: 275px;
+    position: absolute;
+}
+
+.template-2 .rectangle-37{
+    width: 265px;
+    height: 323px;
+    top: 480px;
+    left: 0px;
+    position: absolute;
+}
+
+.template-2 .rectangle-41{
+    width: 178px;
+    height: 242px;
+    top: 545px;
+    left: 935px;
+    position: absolute;
+}
+.template-2 .rectangle-44{
+    width: 315px;
+    height: 242px;
+    top: 545px;
+    position: absolute;
+    right: 0;
+}
+
+.template-2 .footer{
+    width: 1440px;
+    height: 367px;
+    position: absolute;
+    top: 4350px;
+}
+
+.template-2 .line-footer{
+    width: 1240px;
+    text-align: center;
+    left: 100px;
+    position: absolute;
+    margin-top: 10px;
+}
+
+.template-2 .about{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 102px;
+}
+
+.template-2 .ft-about-funiro{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.template-2 .about-text{
+    font-size: 16px;
+    font-weight: 400;
+    color: #616161;
+    width: 249px;
+    margin-top: 16px;
+    line-height: 19.09px;
+    position: absolute;
+}
+
+.template-2 .about-locate{
+    margin-top: 84px;
+    display: flex;
+    gap: 10px;
+    color: #616161;
+}
+
+.template-2 .icon-locate{
+    width: 20px;
+    height: 20px;
+}
+
+.template-2 .about-phone{
+    font-size: 16px;
+    font-weight: 400;
+    color: #616161;
+    width: 249px;
+    margin-top: 16px;
+    position: absolute;
+}
+
+.template-2 .about-phone{
+    display: flex;
+    gap: 10px;
+    color: #616161;
+}
+
+.template-2 .icon-phone{
+    width: 20px;
+    height: 20px;
+}
+
+.template-2 .www{
+    font-size: 16px;
+    font-weight: 400;
+    width: 115px;
+    margin-top: 46px;
+    position: absolute;
+    color: #616161;
+}
+
+.template-2 .menu{
+    position: absolute;
+    width: 104px;
+    height: 229px;
+    margin-top: 80px;
+    margin-left: 431px;
+}
+
+.template-2 .menu-menu{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.template-2 .menu-products{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 16px;
+    height: 24px;
+    position: absolute;
+}
+
+.template-2 .menu-rooms{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 30px;
+    height: 24px;
+    position: absolute;
+}
+
+.template-2 .menu-inspirations{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.template-2 .menu-about-us{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 50px;
+    height: 24px;
+    position: absolute;
+}
+
+.template-2 .menu-terms-policy{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    width: 104px;
+    height: 24px;
+    margin-top: 60px;
+    position: absolute;
+}
+
+.template-2 .account{
+    position: absolute;
+    width: 104px;
+    height: 229px;
+    margin-top: 80px;
+    margin-left: 614px;
+}
+
+.template-2 .account-account{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.template-2 .my-account{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 16px;
+    height: 24px;
+    position: absolute;
+}
+
+.template-2 .account-checkout{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 30px;
+    height: 24px;
+    position: absolute;
+}
+
+.template-2 .account-cart{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.template-2 .account-catalog{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 50px;
+    height: 24px;
+    position: absolute;
+}
+
+.template-2 .stay-connected{
+    position: absolute;
+    width: 180px;
+    height: 229px;
+    margin-top: 80px;
+    margin-left: 787px;
+}
+
+.template-2 .stay-connected-title{
+    font-size: 24px;
+    width: 180px;
+    height: 29px;
+    font-weight: 700;
+}
+
+.template-2 .stay-facebook{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 16px;
+    height: 24px;
+    position: absolute;
+}
+
+.template-2 .stay-instagram{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 30px;
+    height: 24px;
+    position: absolute;
+}
+
+.template-2 .stay-twitter{
+    font-size: 16px;
+    font-weight: 500;
+    color: #616161;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.template-2 .stay-updated{
+    right: 101px;   
+    position: absolute;
+    margin-top: 80px;
+    width: 292px;
+    height: 90px;
+}
+
+.template-2 .stay-updated-title{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.template-2 .stay-updated-searchbar{
+    width: 292px;
+    height: 45px;
+    display: flex;
+}
+
+.template-2 .stay-updated-placeholder{
+    background: #f4f5f7;
+    width: 242px;
+    height: 45px;
+    margin-top: 16px;
+    align-content: center;
+    padding-left: 12px;
+    color: #828282;
+}
+
+.template-2 .stay-updated-send{
+    background: #E89F71;
+    margin-top: 16px;
+    width: 46px;
+    height: 45px;
+    margin-left: 4px;
+}
+
+.template-2 .icon-send{
+    width: 24px;
+    height: 24px;
+    padding-top: 10px;
+    padding-left: 11px;
+}
